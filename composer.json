@@ -1,0 +1,16 @@
+{
+    "name": "abdallah/laravel-translate",
+    "autoload": {
+        "psr-4": {
+            "Abdallah\\LaravelTranslate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "a.allhosama",
+            "email": "a.allhosama@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable"
+}
